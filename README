@@ -1,0 +1,10 @@
+Updated: 10/4/2012
+
+A collection of utilities and libraries that corresponds with the "Building a Better Emulator" series on http://thecobraden.blogspot.com.
+
+This contains:
+framework.jar 		A modified "/system/framework/framework.jar" for API 10 that allows control over TelephonyManager values
+device_ids.txt		A sample device ID file.  This should be placed in "/mnt/sdcard/"
+DeviceIDChanger/	An application Eclipse project and APK for making changes to the "device_ids.txt" file
+
+-jakev
